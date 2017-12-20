@@ -1,0 +1,10 @@
+ch/sebooom/springddddomain/port/repository/EventRepository.class
+ch/sebooom/springddddomain/model/demande/Demande.class
+ch/sebooom/springddddomain/model/demande/DemandeId.class
+ch/sebooom/springddddomain/shared/DomainEntity.class
+ch/sebooom/springddddomain/events/EventType.class
+ch/sebooom/springddddomain/model/demande/DemandeEtat.class
+ch/sebooom/springddddomain/DemandePort.class
+ch/sebooom/springddddomain/events/DomainEvent.class
+ch/sebooom/springddddomain/port/repository/DemandeRepository.class
+ch/sebooom/springddddomain/shared/ValueObject.class

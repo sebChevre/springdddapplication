@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-ddd-api/spring-ddd-api.iml" filepath="$PROJECT_DIR$/spring-ddd-api/spring-ddd-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-ddd-application/spring-ddd-application.iml" filepath="$PROJECT_DIR$/spring-ddd-application/spring-ddd-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-ddd-domain/spring-ddd-domain.iml" filepath="$PROJECT_DIR$/spring-ddd-domain/spring-ddd-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-ddd-spi/spring-ddd-spi.iml" filepath="$PROJECT_DIR$/spring-ddd-spi/spring-ddd-spi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springdddapplication.iml" filepath="$PROJECT_DIR$/springdddapplication.iml" />
+    </modules>
+  </component>
+</project>

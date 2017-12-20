@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-ddd-api" />
+        <module name="spring-ddd-application" />
+        <module name="spring-ddd-domain" />
+        <module name="spring-ddd-spi" />
+        <module name="springdddapi" />
+        <module name="springddddomain" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-ddd-api" target="1.8" />
+      <module name="spring-ddd-application" target="1.8" />
+      <module name="spring-ddd-domain" target="1.8" />
+      <module name="spring-ddd-spi" target="1.8" />
+      <module name="springdddapi" target="1.5" />
+      <module name="springdddapplication" target="1.5" />
+      <module name="springddddomain" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
